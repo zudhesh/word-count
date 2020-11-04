@@ -4,7 +4,7 @@ Usage
 =====
 
 
-Sudhesh How to clone the code
+Sudhesh-K How to clone the code
 -----------------------------
 
 Write me ...
